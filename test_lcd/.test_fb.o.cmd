@@ -1,0 +1,1 @@
+cmd_/home/embedfire/xiaofei/embed_linux_tutorial/my_drive_code/test_lcd/test_fb.o := arm-linux-gnueabihf-ld  -EL    -r -o /home/embedfire/xiaofei/embed_linux_tutorial/my_drive_code/test_lcd/test_fb.o /home/embedfire/xiaofei/embed_linux_tutorial/my_drive_code/test_lcd/test.o /home/embedfire/xiaofei/embed_linux_tutorial/my_drive_code/test_lcd/fb_model.o 
